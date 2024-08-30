@@ -1,5 +1,5 @@
 # Java2DimensionalArrays
- derived from CISC191M2ArrayChallenges
+ derived from CISC191ArrayChallengeMiddleDeveloper
 
 Java Test Driven Development (TDD) project to practice 2-dimensional Java coding using (2D) image processing
 
